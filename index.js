@@ -1,4 +1,4 @@
-const { DISCORD_TOKEN, GOOGLE_SHEET_KEY, GOOGLE_SHEET_NAME, GOOGLE_SHEET_GID, DISCORD_CHANNEL_ID} = require('./config.json');
+const { DISCORD_TOKEN, GOOGLE_SHEET_KEY, GOOGLE_SHEET_NAME, DISCORD_CHANNEL_ID} = require('./config.json');
 const { songEraColors, songEraIcons } = require('./artistData.json');
 const fs = require('node:fs');
 const path = require('node:path');
