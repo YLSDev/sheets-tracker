@@ -1,0 +1,42 @@
+{
+    "songEraColors": {
+        "Ca$h Carti Season": "#21614A",
+        "Playboi Carti": "#6C6423",
+        "Die Lit": "#000000",
+        "16*29 [V1]": "#FF8F00",
+        "Whole Lotta Red [V1]": "#951717",
+        "Whole Lotta Red [V2]": "#951717",
+        "Whole Lotta Red [V3]": "#951717",
+        "Whole Lotta Red [V4]": "#951717",
+        "Whole Lotta Red (Deluxe)": "#951717",
+        "16*29 [V2]": "#FF8F00",
+        "Donda": "#000000",
+        "16*29 [V3]": "#FF8F00",
+        "Narcissist": "#A0A0A0",
+        "MUSIC": "#1666BF",
+        "VULTURES": "#9D9C27",
+        "I AM MUSIC [V1]": "#FFFFFF",
+        "I AM MUSIC [V2]": "#3C3C3C",
+        "BABY BOI": "#3C3C3C"
+    },
+    "songEraIcons": {
+        "Ca$h Carti Season": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17F0B8j6bH6fXoZGeq862YRAiTb28IxMpobtwOmW9MCvVse1Wxw10DzlK1mlvzQcmRG56EgwT9eAiNE9eKwUF0yCwo9rmlNDo9SWrHsvYblysrDK_avdcozhmlzZuWxx",
+        "Playboi Carti": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17EvaiETZ-_KqtskhZ7TUCGt-mwFSI4O5v_6iOP_FlJaENNRzojrllQENaGQL_tlyW5hXEKBr-mTADucgm8QXvXgBKQBDAdW-BBLeVkH6cReCJxSnLdb7CGqo5e5pEZcQ7bBa5qPdB_e92kLgA2dbg",
+        "Die Lit": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17H7cSg0yy2jyXGmaey82nJe08fYD1A65JT1ATMR5x0eA-UR9uyAxcmHm9RzwY3K8Z9CjZPuyQQRnGMiQJUapNR7GsPyZ-KrugNQe3iEC2R1Ydput_i5DsS1e61WGzYgZ5Cw4ejoqwQ8Jb3Ia3ve",
+        "16*29 [V1]": "https://lastfm.freetls.fastly.net/i/u/770x0/1799670ba8a8963b18706582399adeb4.jpg",
+        "Whole Lotta Red [V1]": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GqG_7u2s9Cz21Qi-pK-nRCYKtSnZrGhL3WYhiaiklpfP3AkLOpC-bXImM4y9HNMz9Ul4ZyhEiY149Ymm1J7wPsmnPnZbL4vbcG-97YLcXEya7AqhpSBFNsXlASJFOZ",
+        "Whole Lotta Red [V2]": "https://lastfm.freetls.fastly.net/i/u/770x0/d2fa6ca7600de8e1869798b3101dcaef.jpg",
+        "Whole Lotta Red [V3]": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17HgBxHGUKNI0cLuuYSCieKtdWP39z9GgBLZqQ4yAL6j7F6hnIBH-z_Y6TsKDveiL04bqzyVZ-EidJpBYFaIRd8U7X8T8fjZ-JwSRtxR-HBhYx9mBVsBhqxPiPKYk955_NfCw_C5m39ZfTlKgbIgXw=w384",
+        "Whole Lotta Red [V4]": "https://lastfm.freetls.fastly.net/i/u/770x0/0db2bb3f8dcebb4279db97dc7608d090.jpg",
+        "Whole Lotta Red (Deluxe)": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17Gjb7VfoBC2C6JklaPN3K7hkP5VuxvpmgsgPC2LT6MhyGdvhGyCRTP00pAsz2iI_SNK8fFidgO4sVlLM7kpPeVaq2p1V9BJOKjasQm6WrDza2a6PD2zL4WdC8hwehZR=w256",
+        "16*29 [V2]": "https://lastfm.freetls.fastly.net/i/u/770x0/1799670ba8a8963b18706582399adeb4.jpg",
+        "Donda": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBWpPEEcAQQTRK3gYd6i9sShhq1kwhi2_Eg&s",
+        "16*29 [V3]": "https://lastfm.freetls.fastly.net/i/u/770x0/1799670ba8a8963b18706582399adeb4.jpg",
+        "Narcissist": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GLU4jUDPxSQq6cCDomCaV2bRztzG_3J1jxAFRm9qydmEsR-lLgrRhEF8WdjejepNEIeTMdSXy63GgAOvz9278296qCdEmAiNqOxFlfMhvARQNmQ_PbaDA_Y7bh9D4",
+        "MUSIC": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17H3un8vdrO_9jnURzJ0A-ec9vwo7ZBYMwEXju1uwPyGPXi6W7j0wY1QBcUz0CMwsB6ereFlj3Dk_sJjw4F33Lf5uPPrIlaBJi5vM89OEylZMBsuS7FFDogoonoCeXND7i_0WXJxwPUTK67RZO1rVw",
+        "VULTURES": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17G3xP6qfSjoAu-S_hVY69Wbh8tSAJCE8guu6Zv0qd00fTCypdVECNFcFhJJeMpr1cbteue4tOaNaIaSsD-xfwCRrFeUkXur12Fwdnec67NnfOFg9kZ3zzBHoVhZXrzE2oTu_Q7xJYMXsZ8rx2zsQQ",
+        "I AM MUSIC [V1]": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GLwzvl5QUMlCiGPMU14Xyh7-a4I4n9kdhGR4guPP6iQp2cc9XFLEQf1tUSo5K-4dv4L5vgLrERNWPP4X9NXtPaxs9Ryk5wIT5O9Qr0NiVbTdTkGvx4N-qmNelO5em-",
+        "I AM MUSIC [V2]": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17GIslSgZFl8TRu7G68k_8hQ4nK8W-DBqUTeipetvvdCGDQc9QE7-FPui8voXATjNcpyQk6jmnr6BNyqCbiB4NTMT2XUICbDyrw-cSsixZbYGqSD8GgkSO7SmSHJXRHT",
+        "BABY BOI": "https://lh7-rt.googleusercontent.com/sheetsz/AHOq17F8MD0mrqVDERvB75XBPSC2gOvmrS7EokVmXfIEOuHbpLKp3ciQd6zvMOG-O5Ui2zOxczrCFkokX8A17rC0FqZEWnea1_p6qJRLO_kvM2RWcMP-2WZwaN9e9aGLDUll"
+    }
+}
