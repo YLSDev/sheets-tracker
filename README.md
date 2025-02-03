@@ -88,4 +88,5 @@ node .
 
 This was mainly designed in mind for the carti tracker and specifically the Recent tab
 For best usage try following the format of it by copying it directly or edit the parsed info to your preferred situation!
+For support join up [Carti Tracker Discord](https://discord.gg/VhRgUGERHG) and dming me `@ylsdev`
 
