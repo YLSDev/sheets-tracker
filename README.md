@@ -15,7 +15,8 @@ npm install
 
 ## Configuration
 
-Configuring the bot itself is very simple  `clientId` and `DISCORD_TOKEN` can both be grabbed from [Discord's Developer Portal](https://discord.com/developers/applications) while the rest can be filled in
+Configuring the bot itself is very simple  `clientId` and `DISCORD_TOKEN` can both be grabbed from [Discord's Developer Portal](https://discord.com/developers/applications) while the rest can be filled in normally
+
 `ownerIds` takes discord user ids of whoever you want to access the editConfig commands `/update-channel` and `/update-sheet`
 
 ```json
@@ -49,7 +50,7 @@ Example `config.json`
 
 ## Prerequisites
 
-First off i'd recommend setting up these files following the .example. version of them included in the actual repo `artistData.json` and `sheet.json`
+First off i'd recommend setting up these files following the .example. version of them included in the actual repo `artistData.json` and `sheet.json` 
 
 ## Running
 
@@ -87,6 +88,8 @@ node .
 ## Notes:
 
 This was mainly designed in mind for the carti tracker and specifically the Recent tab
+
 For best usage try following the format of it by copying it directly or edit the parsed info to your preferred situation!
-For support join up [Carti Tracker Discord](https://discord.gg/VhRgUGERHG) and dming me `@ylsdev`
+
+For support join up [Carti Tracker Discord](https://discord.gg/VhRgUGERHG) and dm me `@ylsdev`
 
